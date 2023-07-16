@@ -1,5 +1,5 @@
 # Skin-Segmentation
-Our project aimed to create a robust system that could accurately determine the dominant skin tone of users and provide an accurate assessment of their skin color.
+This project aimed to create a robust system that could accurately determine the dominant skin tone of users and provide an accurate assessment of their skin color.
 
 In addition to this, the project focused on recommending appropriate skin tone products based on the identified color. 
 
